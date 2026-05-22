@@ -1,0 +1,6 @@
+{
+  "name": "Shield Scan",
+  "description": "A real-time URL, page content, malware script, and QR code safety scanner powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
